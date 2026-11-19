@@ -1,0 +1,20 @@
+{
+  "cultura_ativa": "Alface Crespa",
+  "dia_ciclo": 12,
+  "status_sistema": "OPERACIONAL",
+  "ultima_telemetria": {
+    "t": 23.4,
+    "h": 67.5,
+    "w": 82.0,
+    "l": 760
+  },
+  "historico_leituras": [],
+  "mural_comunitario": [
+    {
+      "morador": "Dona Maria (Apto 42)",
+      "item": "2 pés de alface + mudas de manjericão",
+      "distancia_km": 0.4,
+      "tipo": "Doação / Troca"
+    }
+  ]
+}
